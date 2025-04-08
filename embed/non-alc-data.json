@@ -1,0 +1,953 @@
+{
+  "retailers": [
+    {
+      "id": 1,
+      "name": "Albertsons",
+      "brands": [
+        {
+          "id": 1,
+          "name": "Athletic Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 2,
+          "name": "Seedlip",
+          "category": "Spirits"
+        },
+        {
+          "id": 3,
+          "name": "Mocktail Club",
+          "category": "RTD"
+        },
+        {
+          "id": 4,
+          "name": "Fre",
+          "category": "Wine"
+        },
+        {
+          "id": 5,
+          "name": "Recess",
+          "category": "Functional"
+        },
+        {
+          "id": 6,
+          "name": "Free Spirits",
+          "category": "Spirits"
+        },
+        {
+          "id": 7,
+          "name": "Ritual",
+          "category": "Spirits"
+        },
+        {
+          "id": 8,
+          "name": "ARIEL Vineyards",
+          "category": "Wine"
+        },
+        {
+          "id": 9,
+          "name": "Buzzkill Wines",
+          "category": "Wine"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "BevMo",
+      "brands": [
+        {
+          "id": 10,
+          "name": "Almave",
+          "category": "Spirits"
+        },
+        {
+          "id": 11,
+          "name": "Mingle Mocktails",
+          "category": "RTD"
+        },
+        {
+          "id": 12,
+          "name": "NKD Distillery",
+          "category": "Spirits"
+        },
+        {
+          "id": 13,
+          "name": "Aplós",
+          "category": "Functional"
+        },
+        {
+          "id": 14,
+          "name": "Spiritless",
+          "category": "Spirits"
+        },
+        {
+          "id": 15,
+          "name": "New London Light",
+          "category": "Spirits"
+        },
+        {
+          "id": 16,
+          "name": "Dhos",
+          "category": "Spirits"
+        },
+        {
+          "id": 17,
+          "name": "Lyre's",
+          "category": "Spirits"
+        },
+        {
+          "id": 18,
+          "name": "Seedlip",
+          "category": "Spirits"
+        },
+        {
+          "id": 19,
+          "name": "Kin Euphorics",
+          "category": "Functional"
+        },
+        {
+          "id": 20,
+          "name": "Avec",
+          "category": "Functional"
+        },
+        {
+          "id": 21,
+          "name": "TÖST",
+          "category": "Wine"
+        },
+        {
+          "id": 22,
+          "name": "IMPROV",
+          "category": "RTD"
+        },
+        {
+          "id": 23,
+          "name": "Recess",
+          "category": "Functional"
+        },
+        {
+          "id": 24,
+          "name": "Hiyo",
+          "category": "Functional"
+        },
+        {
+          "id": 25,
+          "name": "H2OPS",
+          "category": "Hop Water"
+        },
+        {
+          "id": 26,
+          "name": "Fieldwork Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 27,
+          "name": "HOP WTR",
+          "category": "Hop Water"
+        },
+        {
+          "id": 28,
+          "name": "BERO",
+          "category": "Beer"
+        },
+        {
+          "id": 29,
+          "name": "Athletic Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 30,
+          "name": "RationAle Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 31,
+          "name": "Bravus Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 32,
+          "name": "Figeuroa Mountain",
+          "category": "Beer"
+        },
+        {
+          "id": 33,
+          "name": "Partake Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 34,
+          "name": "BrewDog",
+          "category": "Beer"
+        },
+        {
+          "id": 35,
+          "name": "Busty Lush",
+          "category": "Beer"
+        },
+        {
+          "id": 36,
+          "name": "Fort Point Beer Co.",
+          "category": "Beer"
+        },
+        {
+          "id": 37,
+          "name": "AleSmith Brewing Co.",
+          "category": "Beer"
+        },
+        {
+          "id": 38,
+          "name": "Patagonia x Deschutes",
+          "category": "Beer"
+        },
+        {
+          "id": 39,
+          "name": "Sober Carpenter",
+          "category": "Beer"
+        },
+        {
+          "id": 40,
+          "name": "Best Day Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 41,
+          "name": "White Claw",
+          "category": "RTD"
+        },
+        {
+          "id": 42,
+          "name": "2 Towns Ciderhouse",
+          "category": "Cider"
+        },
+        {
+          "id": 43,
+          "name": "Free AF",
+          "category": "RTD"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Costco",
+      "brands": [
+        {
+          "id": 44,
+          "name": "Mingle Mocktails",
+          "category": "RTD"
+        },
+        {
+          "id": 45,
+          "name": "Go Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 46,
+          "name": "Athletic Brewing",
+          "category": "Beer"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Erewhon",
+      "brands": [
+        {
+          "id": 47,
+          "name": "BERO",
+          "category": "Beer"
+        },
+        {
+          "id": 48,
+          "name": "Cann",
+          "category": "Cannabis"
+        },
+        {
+          "id": 49,
+          "name": "De Soi",
+          "category": "RTD"
+        },
+        {
+          "id": 50,
+          "name": "Ghia",
+          "category": "Spirits"
+        },
+        {
+          "id": 51,
+          "name": "French Bloom",
+          "category": "Wine"
+        },
+        {
+          "id": 52,
+          "name": "Little Saints",
+          "category": "Functional"
+        },
+        {
+          "id": 53,
+          "name": "Hiyo",
+          "category": "Functional"
+        },
+        {
+          "id": 54,
+          "name": "Rancho West",
+          "category": "Beer"
+        },
+        {
+          "id": 55,
+          "name": "Sovi Wine",
+          "category": "Wine"
+        },
+        {
+          "id": 56,
+          "name": "St. Agrestis",
+          "category": "Spirits"
+        },
+        {
+          "id": 57,
+          "name": "Kin Euphorics",
+          "category": "Functional"
+        },
+        {
+          "id": 58,
+          "name": "HOP WTR",
+          "category": "Hop Water"
+        },
+        {
+          "id": 59,
+          "name": "Wilderton",
+          "category": "Spirits"
+        },
+        {
+          "id": 60,
+          "name": "Best Day Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 61,
+          "name": "Optimist",
+          "category": "Spirits"
+        },
+        {
+          "id": 62,
+          "name": "Cypher",
+          "category": "Wine"
+        },
+        {
+          "id": 63,
+          "name": "TÖST",
+          "category": "Wine"
+        },
+        {
+          "id": 64,
+          "name": "Three Spirit",
+          "category": "Spirits"
+        },
+        {
+          "id": 65,
+          "name": "RationAle Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 66,
+          "name": "Copenhagen Sparkling Tea",
+          "category": "Wine"
+        },
+        {
+          "id": 67,
+          "name": "Pentire",
+          "category": "Spirits"
+        },
+        {
+          "id": 68,
+          "name": "Proxies",
+          "category": "Functional"
+        },
+        {
+          "id": 69,
+          "name": "Mocktail Club",
+          "category": "RTD"
+        },
+        {
+          "id": 70,
+          "name": "Kally",
+          "category": "Wine"
+        },
+        {
+          "id": 71,
+          "name": "Odd Bird",
+          "category": "Wine"
+        },
+        {
+          "id": 72,
+          "name": "Wild Tonic",
+          "category": "Functional"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "H-E-B",
+      "brands": [
+        {
+          "id": 73,
+          "name": "Parch Spirits",
+          "category": "Spirits"
+        },
+        {
+          "id": 74,
+          "name": "Hiyo",
+          "category": "Functional"
+        },
+        {
+          "id": 75,
+          "name": "Athletic Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 76,
+          "name": "Community Beer",
+          "category": "Beer"
+        },
+        {
+          "id": 77,
+          "name": "HOP WTR",
+          "category": "Hop Water"
+        },
+        {
+          "id": 78,
+          "name": "Big Hat Mocktails",
+          "category": "RTD"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Kroger",
+      "brands": [
+        {
+          "id": 79,
+          "name": "Walker Brothers",
+          "category": "Functional"
+        },
+        {
+          "id": 80,
+          "name": "Athletic Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 81,
+          "name": "White Claw",
+          "category": "RTD"
+        },
+        {
+          "id": 82,
+          "name": "Community Beer",
+          "category": "Beer"
+        },
+        {
+          "id": 83,
+          "name": "Mionetto",
+          "category": "Wine"
+        },
+        {
+          "id": 84,
+          "name": "Fre",
+          "category": "Wine"
+        },
+        {
+          "id": 85,
+          "name": "Stella Rosa",
+          "category": "Wine"
+        },
+        {
+          "id": 86,
+          "name": "Hiyo",
+          "category": "Functional"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Meijer",
+      "brands": [
+        {
+          "id": 87,
+          "name": "HOP WTR",
+          "category": "Hop Water"
+        },
+        {
+          "id": 88,
+          "name": "Lyre's",
+          "category": "Spirits"
+        },
+        {
+          "id": 89,
+          "name": "Seedlip",
+          "category": "Spirits"
+        },
+        {
+          "id": 90,
+          "name": "CleanCo",
+          "category": "Spirits"
+        },
+        {
+          "id": 91,
+          "name": "Ritual",
+          "category": "Spirits"
+        },
+        {
+          "id": 92,
+          "name": "Athletic Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 93,
+          "name": "Go Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 94,
+          "name": "Edna's",
+          "category": "RTD"
+        },
+        {
+          "id": 95,
+          "name": "Stella Rosa",
+          "category": "Wine"
+        },
+        {
+          "id": 96,
+          "name": "ARIEL Vineyards",
+          "category": "Wine"
+        },
+        {
+          "id": 97,
+          "name": "White Claw",
+          "category": "RTD"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Publix",
+      "brands": [
+        {
+          "id": 98,
+          "name": "KUL MOCKS",
+          "category": "RTD"
+        },
+        {
+          "id": 99,
+          "name": "Athletic Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 100,
+          "name": "Rightside Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 101,
+          "name": "HOP WTR",
+          "category": "Hop Water"
+        },
+        {
+          "id": 102,
+          "name": "Lyre's",
+          "category": "Spirits"
+        },
+        {
+          "id": 103,
+          "name": "De Soi",
+          "category": "RTD"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Sprouts",
+      "brands": [
+        {
+          "id": 104,
+          "name": "Almave",
+          "category": "Spirits"
+        },
+        {
+          "id": 105,
+          "name": "BERO",
+          "category": "Beer"
+        },
+        {
+          "id": 106,
+          "name": "De Soi",
+          "category": "RTD"
+        },
+        {
+          "id": 107,
+          "name": "Parch Spirits",
+          "category": "Spirits"
+        },
+        {
+          "id": 108,
+          "name": "Wilderton",
+          "category": "Spirits"
+        },
+        {
+          "id": 109,
+          "name": "RationAle Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 110,
+          "name": "Leilo",
+          "category": "Functional"
+        },
+        {
+          "id": 111,
+          "name": "Aplós",
+          "category": "Spirits"
+        },
+        {
+          "id": 112,
+          "name": "Sarilla",
+          "category": "Functional"
+        },
+        {
+          "id": 113,
+          "name": "TRIP",
+          "category": "Functional"
+        },
+        {
+          "id": 114,
+          "name": "Libby",
+          "category": "Wine"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Target",
+      "brands": [
+        {
+          "id": 115,
+          "name": "De Soi",
+          "category": "RTD"
+        },
+        {
+          "id": 116,
+          "name": "Ghia",
+          "category": "Spirits"
+        },
+        {
+          "id": 117,
+          "name": "Sèchey",
+          "category": "Wine"
+        },
+        {
+          "id": 118,
+          "name": "High Ground Elixir",
+          "category": "Functional"
+        },
+        {
+          "id": 119,
+          "name": "BERO",
+          "category": "Beer"
+        },
+        {
+          "id": 120,
+          "name": "Kin Euphorics",
+          "category": "Functional"
+        },
+        {
+          "id": 121,
+          "name": "Mocktail Club",
+          "category": "RTD"
+        },
+        {
+          "id": 122,
+          "name": "HOP WTR",
+          "category": "Hop Water"
+        },
+        {
+          "id": 123,
+          "name": "Edna's",
+          "category": "RTD"
+        },
+        {
+          "id": 124,
+          "name": "RationAle Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 125,
+          "name": "Surely",
+          "category": "Wine"
+        },
+        {
+          "id": 126,
+          "name": "Mingle Mocktails",
+          "category": "RTD"
+        },
+        {
+          "id": 127,
+          "name": "Free AF",
+          "category": "RTD"
+        },
+        {
+          "id": 128,
+          "name": "Hiyo",
+          "category": "Functional"
+        },
+        {
+          "id": 129,
+          "name": "Bravus Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 130,
+          "name": "Ritual",
+          "category": "Spirits"
+        },
+        {
+          "id": 131,
+          "name": "TRIP",
+          "category": "Functional"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Total Wine & More",
+      "brands": [
+        {
+          "id": 132,
+          "name": "BERO",
+          "category": "Beer"
+        },
+        {
+          "id": 133,
+          "name": "Aplós",
+          "category": "Spirits"
+        },
+        {
+          "id": 134,
+          "name": "Almave",
+          "category": "Spirits"
+        },
+        {
+          "id": 135,
+          "name": "Blind Tiger",
+          "category": "RTD"
+        },
+        {
+          "id": 136,
+          "name": "Hippie Water",
+          "category": "Cannabis"
+        },
+        {
+          "id": 137,
+          "name": "Wana Hemp D9",
+          "category": "Cannabis"
+        },
+        {
+          "id": 138,
+          "name": "Loverboy",
+          "category": "RTD"
+        },
+        {
+          "id": 139,
+          "name": "The Pathfinder",
+          "category": "Spirits"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Wegmans",
+      "brands": [
+        {
+          "id": 140,
+          "name": "Blind Tiger",
+          "category": "Spirits"
+        },
+        {
+          "id": 141,
+          "name": "Go Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 142,
+          "name": "Buzzkill Wines",
+          "category": "Wine"
+        },
+        {
+          "id": 143,
+          "name": "Athletic Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 144,
+          "name": "HOP WTR",
+          "category": "Hop Water"
+        },
+        {
+          "id": 145,
+          "name": "New Trail Broken Heels",
+          "category": "Beer"
+        },
+        {
+          "id": 146,
+          "name": "Genesee",
+          "category": "Beer"
+        },
+        {
+          "id": 147,
+          "name": "Founders Hoppy Mood",
+          "category": "Hop Water"
+        },
+        {
+          "id": 148,
+          "name": "Southern Tier Downshift",
+          "category": "Beer"
+        },
+        {
+          "id": 149,
+          "name": "Chouffe",
+          "category": "Beer"
+        },
+        {
+          "id": 150,
+          "name": "1911 Clear View Original NA Cider",
+          "category": "Cider"
+        },
+        {
+          "id": 151,
+          "name": "Flying Dog",
+          "category": "Beer"
+        },
+        {
+          "id": 152,
+          "name": "Giesen",
+          "category": "Wine"
+        },
+        {
+          "id": 153,
+          "name": "Recess",
+          "category": "Functional"
+        },
+        {
+          "id": 154,
+          "name": "Mingle Mocktails",
+          "category": "RTD"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Whole Foods",
+      "brands": [
+        {
+          "id": 155,
+          "name": "Parch Spirits",
+          "category": "Spirits"
+        },
+        {
+          "id": 156,
+          "name": "Savyll Beverage Company",
+          "category": "Spirits"
+        },
+        {
+          "id": 157,
+          "name": "Good Time Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 158,
+          "name": "Ghia",
+          "category": "Spirits"
+        },
+        {
+          "id": 159,
+          "name": "Kally",
+          "category": "Wine"
+        },
+        {
+          "id": 160,
+          "name": "wildwonder",
+          "category": "Functional"
+        },
+        {
+          "id": 161,
+          "name": "Mingle Mocktails",
+          "category": "RTD"
+        },
+        {
+          "id": 162,
+          "name": "Best Day Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 163,
+          "name": "Black Butte",
+          "category": "Beer"
+        },
+        {
+          "id": 164,
+          "name": "Proxies",
+          "category": "Functional"
+        },
+        {
+          "id": 165,
+          "name": "Athletic Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 166,
+          "name": "Giesen",
+          "category": "Wine"
+        },
+        {
+          "id": 167,
+          "name": "Hoplark",
+          "category": "Hop Water"
+        },
+        {
+          "id": 168,
+          "name": "Partake Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 169,
+          "name": "Patagonia x Deschutes",
+          "category": "Beer"
+        },
+        {
+          "id": 170,
+          "name": "Figeuroa Mountain",
+          "category": "Beer"
+        },
+        {
+          "id": 171,
+          "name": "RationAle Brewing",
+          "category": "Beer"
+        },
+        {
+          "id": 172,
+          "name": "IMPROV",
+          "category": "RTD"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    "Beer",
+    "Cannabis",
+    "Cider",
+    "Functional",
+    "Hop Water",
+    "RTD",
+    "Spirits",
+    "Wine"
+  ],
+  "totalBrands": 172
+}
